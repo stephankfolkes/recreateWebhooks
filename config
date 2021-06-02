@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#VARIABLES
+
+#Authentication
+USERNAME=
+JENKINS_TOKEN=
+URL=
